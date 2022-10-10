@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
-global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sig = 'https://instagram.com/imleviofc'
+global.sgh = 'https://github.com/ImleviOfc' //github
+global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '085172446692' //dana
+global.povo = '085172446692' //ovo
+global.pgopay = '085172446692' //gopay
+global.plinkaja = '085172446692' //link aja
+global.ppulsa = '085172446692' //telkomsel
+global.ppulsa2 = '085172446692' // kalau ada kartu lain isi aja
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6282131369002'
+global.nomorown = '6285172446692'
+global.namebot = 'LEVI-MODS-GANZ'
+global.nameown = 'LEVI-GANZ'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['6285172446692', 'LEVI-GANZ', true],
+  ['6285172446692', 'LEVI-GANZ', true],
+  ['6285172446692', 'LEVI-GANZ', true],
+  ['6285172446692', 'LEVI-GANZ', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 LEVI-MODS-GANZ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ LEVI-GANZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ LEVI-MODS-GANZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By LEVI-GANZ`
+global.author = '                「 LEVI-MODS-GANZ  あ」'
 
 
 /*============== LOGO ==============*/
@@ -150,7 +150,7 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.eror = '```404 error:(```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'LEVI-MODS-GANZ'
+global.stickauth = `By ©LEVI-GANZ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
